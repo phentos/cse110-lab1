@@ -1,6 +1,6 @@
 # Ken's User Page
 
-[Skip to the AI rendering of 45 section.](#AI-section)
+[Skip to the AI rendering of 45 section.](#ai-section)
 
 **I am a fan of Python, but have dabbled in C/C++/Java/Ruby/Clojure.**
 
